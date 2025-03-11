@@ -1,5 +1,7 @@
 # PEXE
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=ultimatepexe&theme=algolia&show_icons=true)](https://github.com/ultimatepexe)
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ultimatepexe&theme=dracula)](https://github.com/ultimatepexe/github-readme-stats)
 
 <a href="https://github.com/ultimatepexe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>

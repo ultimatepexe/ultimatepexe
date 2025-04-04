@@ -11,7 +11,7 @@
 <a href="https://youtube.com/@ultimatepexe"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 https://todolist.pexe.dev<br>
-https://pobrometro.pexe.dev<br>
+https://pobrometro.pexe.dev - https://ultimatepexe.github.io/pobrometro-react<br>
 https://calculator.pexe.dev<br>
 https://randomfacts.pexe.dev<br>
 https://d21.pexe.dev<br>

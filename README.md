@@ -10,12 +10,13 @@
 <a href="https://x.com/ultimatepexe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://youtube.com/@ultimatepexe"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
-https://todolist.pexe.dev<br>
-https://pobrometro.pexe.dev - https://ultimatepexe.github.io/pobrometro-react<br>
-https://calculator.pexe.dev<br>
-https://randomfacts.pexe.dev<br>
-https://d21.pexe.dev<br>
-https://ultimatepexe.github.io/task-manager<br>
+## Projects
+<a href="https://todolist.pexe.dev" target="_blank">To-Do List</a><br>
+<a href="https://pobrometro.pexe.dev" target="_blank">Pobrometro 1</a> - <a href="https://ultimatepexe.github.io/pobrometro-react" target="_blank">Pobrometro 2</a><br>
+<a href="https://calculator.pexe.dev" target="_blank">Calculator</a><br>
+<a href="https://randomfacts.pexe.dev" target="_blank">Random Facts</a><br>
+<a href="https://d21.pexe.dev" target="_blank">D21</a><br>
+<a href="https://ultimatepexe.github.io/task-manager" targer="_blank">Task Manager</a><br>
 
 </div>
 

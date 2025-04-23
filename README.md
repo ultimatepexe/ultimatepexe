@@ -18,12 +18,36 @@
 <a href="https://youtube.com/@ultimatepexe"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 ## Projects
-<a href="https://todolist.pexe.dev" target="_blank">To-Do List</a><br>
-<a href="https://pobrometro.pexe.dev" target="_blank">Pobrometro 1</a> - <a href="https://ultimatepexe.github.io/pobrometro-react" target="_blank">Pobrometro 2</a><br>
-<a href="https://calculator.pexe.dev" target="_blank">Calculator</a><br>
-<a href="https://randomfacts.pexe.dev" target="_blank">Random Facts</a><br>
-<a href="https://d21.pexe.dev" target="_blank">D21</a><br>
-<a href="https://ultimatepexe.github.io/task-manager" targer="_blank">Task Manager</a><br>
+<div>
+<div>
+  <a href="https://todolist.pexe.dev" target="_blank">To-Do List</a><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=to-do-list&theme=chartreuse-dark&hide_border=true" />
+</div>
+<div>
+  <a href="https://pobrometro.pexe.dev" target="_blank">Pobrometro 1</a><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=pobrometro&theme=chartreuse-dark&hide_border=true" />
+</div>
+</div>
+<div>
+  <a href="https://calculator.pexe.dev" target="_blank">Calculator</a><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=calculator&theme=chartreuse-dark&hide_border=true" />
+</div>
+<div>
+  <a href="https://randomfacts.pexe.dev" target="_blank">Random Facts</a><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=random-facts&theme=chartreuse-dark&hide_border=true" />
+</div>
+<div>
+  <a href="https://d21.pexe.dev" target="_blank">D21</a><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=d21&theme=chartreuse-dark&hide_border=true" />
+</div>
+<div>
+  <a href="https://ultimatepexe.github.io/task-manager" targer="_blank">Task Manager</a><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=task-manager&theme=chartreuse-dark&hide_border=true" />
+</div>
+<div>
+  <a href="https://ultimatepexe.github.io/pobrometro-react" target="_blank">Pobrometro 2</a><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=pobrometro-react&theme=chartreuse-dark&hide_border=true" />
+</div>
 
 </div>
 

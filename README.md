@@ -9,9 +9,6 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatepexe&layout=pie&theme=chartreuse-dark&hide_border=false" width="49%" height="100%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatepexe&layout=donut-vertical&theme=chartreuse-dark&hide_border=false" width="49%" height="100%" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatepexe&layout=donut&theme=chartreuse-dark&hide_border=false" width="49%" height="100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatepexe&theme=chartreuse-dark&langs_count=8&hide_border=false" width="49%" height="100%" />
 
 <a href="https://github.com/ultimatepexe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://x.com/ultimatepexe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>

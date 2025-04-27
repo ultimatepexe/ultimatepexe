@@ -2,13 +2,7 @@
 
 # PEXE
 
-<img src="https://github-readme-stats.vercel.app/api?username=ultimatepexe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" width="49%" height="200" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ultimatepexe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" width="49%" height="200" alt="languages graph" />
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ultimatepexe&radius=12&theme=react&area=true&hide_border=false" width="100%" height="100%" alt="activity-graph" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatepexe&layout=pie&theme=react&hide_border=false" width="49%" height="100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatepexe&layout=donut-vertical&theme=react&hide_border=false" width="49%" height="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatepexe&layout=donut&theme=react&hide_border=false" width="100%" height="100%" />
 
 <a href="https://github.com/ultimatepexe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://x.com/ultimatepexe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>

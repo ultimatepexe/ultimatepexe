@@ -2,13 +2,13 @@
 
 # PEXE
 
-<img src="https://github-readme-stats.vercel.app/api?username=ultimatepexe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true" width="49%" height="200" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ultimatepexe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true" width="49%" height="200" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=ultimatepexe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" width="49%" height="200" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ultimatepexe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" width="49%" height="200" alt="languages graph" />
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ultimatepexe&radius=12&theme=chartreuse-dark&area=true" width="100%" height="100%" alt="activity-graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ultimatepexe&radius=12&theme=react&area=true&hide_border=false" width="100%" height="100%" alt="activity-graph" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatepexe&layout=pie&theme=chartreuse-dark&hide_border=true" width="49%" height="100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatepexe&layout=donut-vertical&theme=chartreuse-dark&hide_border=true" width="49%" height="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatepexe&layout=pie&theme=react&hide_border=false" width="49%" height="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatepexe&layout=donut-vertical&theme=react&hide_border=false" width="49%" height="100%" />
 
 <a href="https://github.com/ultimatepexe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://x.com/ultimatepexe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -18,36 +18,34 @@
 <div>
 <div>
   <a href="https://todolist.pexe.dev" target="_blank">To-Do List</a><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=to-do-list&theme=chartreuse-dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=to-do-list&theme=react&hide_border=false" />
 </div>
 <div>
   <a href="https://pobrometro.pexe.dev" target="_blank">Pobrometro 1</a><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=pobrometro&theme=chartreuse-dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=pobrometro&theme=react&hide_border=false" />
 </div>
 </div>
 <div>
   <a href="https://calculator.pexe.dev" target="_blank">Calculator</a><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=calculator&theme=chartreuse-dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=calculator&theme=react&hide_border=false" />
 </div>
 <div>
   <a href="https://randomfacts.pexe.dev" target="_blank">Random Facts</a><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=random-facts&theme=chartreuse-dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=random-facts&theme=react&hide_border=false" />
 </div>
 <div>
   <a href="https://d21.pexe.dev" target="_blank">D21</a><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=d21&theme=chartreuse-dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=d21&theme=react&hide_border=false" />
 </div>
 <div>
-  <a href="https://ultimatepexe.github.io/task-manager" targer="_blank">Task Manager</a><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=task-manager&theme=chartreuse-dark&hide_border=false" />
+  <a href="https://ultimatepexe.github.io/task-manager" target="_blank">Task Manager</a><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=task-manager&theme=react&hide_border=false" />
 </div>
 <div>
   <a href="https://ultimatepexe.github.io/pobrometro-react" target="_blank">Pobrometro 2</a><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=pobrometro-react&theme=chartreuse-dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=pobrometro-react&theme=react&hide_border=false" />
 </div>
-
 </div>
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">

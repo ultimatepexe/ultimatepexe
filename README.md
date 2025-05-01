@@ -2,7 +2,7 @@
 
 # PEXE
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatepexe&layout=donut&theme=react&hide_border=false" width="50%" height="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatepexe&layout=donut&theme=react&hide_border=false" width="60%" height="60%" />
 
 <a href="https://github.com/ultimatepexe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://x.com/ultimatepexe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>

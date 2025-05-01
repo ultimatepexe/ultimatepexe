@@ -39,6 +39,10 @@
   <a href="https://ultimatepexe.github.io/pobrometro-react" target="_blank">Pobrometro 2</a><br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=pobrometro-react&theme=react&hide_border=false" />
 </div>
+<div>
+  <a href="https://ultimatepexe.github.io/calculator-tsx" target="_blank">CalculatorTSX</a><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=calculator-tsx&theme=react&hide_border=false" />
+</div>
 </div>
 
 <div align="center">

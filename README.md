@@ -10,14 +10,8 @@
 
 ## Projects
 <div>
-<div>
   <a href="https://todolist.pexe.dev" target="_blank">To-Do List</a><br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=to-do-list&theme=react&hide_border=false" />
-</div>
-<div>
-  <a href="https://pobrometro.pexe.dev" target="_blank">Pobrometro 1</a><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=pobrometro&theme=react&hide_border=false" />
-</div>
 </div>
 <div>
   <a href="https://calculator.pexe.dev" target="_blank">Calculator</a><br>

@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=task-manager&theme=react&hide_border=false" />
 </div>
 <div>
-  <a href="https://ultimatepexe.github.io/pobrometro-react" target="_blank">Pobrometro 2</a><br>
+  <a href="https://ultimatepexe.github.io/pobrometro-react" target="_blank">Pobrometro</a><br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=pobrometro-react&theme=react&hide_border=false" />
 </div>
 <div>

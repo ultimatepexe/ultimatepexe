@@ -14,10 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=to-do-list&theme=react&hide_border=false" />
 </div>
 <div>
-  <a href="https://calculator.pexe.dev" target="_blank">Calculator</a><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=calculator&theme=react&hide_border=false" />
-</div>
-<div>
   <a href="https://randomfacts.pexe.dev" target="_blank">Random Facts</a><br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimatepexe&repo=random-facts&theme=react&hide_border=false" />
 </div>
